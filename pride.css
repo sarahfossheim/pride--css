@@ -15,7 +15,6 @@
     #0044ff 83.333%,
     #760089 83.333%
   );
-  background-size: 700%;
   animation: pride_reverse 0.5s ease forwards;
 }
 
@@ -44,7 +43,6 @@
     #0044ff 87.5%,
     #760089 87.5%
   );
-  background-size: 900%;
   animation: pride_reverse 0.5s ease forwards;
 }
 
@@ -69,7 +67,6 @@
     #476098 83.333%, 
     #A7489B 83.333%
   );
-  background-size: 700%;
   animation: pride_reverse 0.5s ease forwards;
 }
 
@@ -92,7 +89,6 @@
     #f7a8b8 80%,
     #55cdfc 80%
   );
-  background-size: 700%;
   animation: pride_reverse 0.5s ease forwards;
 }
 
@@ -111,7 +107,6 @@
     #f7a8b8 66.666%,
     #fcfcfc 66.666%
   );
-  background-size: 700%;
   animation: pride_reverse 0.5s ease forwards;
 }
 
@@ -138,7 +133,6 @@
     #b75657 85.71%, 
     #7e2713 85.71%
   );
-  background-size: 850%;
   animation: pride_reverse 0.5s ease forwards;
 }
 
@@ -165,7 +159,6 @@
     #B55690 85.71%, 
     #A30262 85.71%
   );
-  background-size: 850%;
   animation: pride_reverse 0.5s ease forwards;
 }
 
@@ -185,7 +178,6 @@
     #1437A2 60%, 
     #1437A2 100% 
   );
-  background-size: 700%;
   animation: pride_reverse 0.5s ease forwards;
 }
 
@@ -204,7 +196,6 @@
     #FFDA00 66.666%, 
     #05AEFF 66.666%
   );
-  background-size: 700%;
   animation: pride_reverse 0.5s ease forwards;
 }
 
@@ -225,7 +216,6 @@
     #fcfcfc 75%,
     #810082 75%
   );
-  background-size: 700%;
   animation: pride_reverse 0.5s ease forwards;
 }
 
@@ -246,7 +236,6 @@
     #9b59d0 75%,
     #2d2d2d 75%
   );
-  background-size: 700%;
   animation: pride_reverse 0.5s ease forwards;
 }
 
@@ -265,7 +254,6 @@
     #fcfcfc 66.666%, 
     #4A8123 66.666%
   );
-  background-size: 700%;
   animation: pride_reverse 0.5s ease forwards;
 }
 
@@ -286,7 +274,6 @@
   );
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 700%;
   animation: pride_reverse 0.5s ease forwards;
 }
 
@@ -305,7 +292,6 @@
     #FF0000 66.666%, 
     #000000 66.666%
   );
-  background-size: 700%;
   animation: pride_reverse 0.5s ease forwards;
 }
 
@@ -337,7 +323,6 @@
     #000000 88.888%,
     #000000 99.999%
   );
-  background-size: 1000%;
   animation: pride_reverse 0.5s ease forwards;
 }
 
@@ -355,7 +340,7 @@
 
 @keyframes pride_reverse {
   0% {background-size: 100%; text-shadow: 0 0 5px rgba(0,0,0,0.1);}
-  100% {background-size: 700%; text-shadow: 0 0 5px rgba(0,0,0,0);} 
+  100% {background-size: 1050%; text-shadow: 0 0 5px rgba(0,0,0,0);} 
 }
 
 /* 🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈 */
