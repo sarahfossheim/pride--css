@@ -334,7 +334,7 @@
 /* ------------------------------------------ */
 
 @keyframes pride {
-  0% {background-size: 900%; text-shadow: 0 0 5px rgba(0,0,0,0);}
+  0% {background-size: 700%; text-shadow: 0 0 5px rgba(0,0,0,0);}
   100% {background-size: 100%; text-shadow: 0 0 5px rgba(0,0,0,0.1);}
 }
 
